@@ -16,8 +16,9 @@ I'm currently focusing on:
 - Working on real-time, queue-driven email campaigns using **Laravel Queues**.
 
 ## 🚀 Projects:
-- **CRM System**: Built a custom CRM with lead processing, document uploads, e-agreement handling, and reporting features using **Laravel** and **Vue.js**.
-- **Email Campaign App**: Developed a campaign app with contact management, queue-driven email sending, and real-time notifications using **Laravel Queues**, **Vue.js**, and **Pusher**.
+- **Email Campaign App**: Developed a campaign app with contact management, queue-driven email sending, and real-time notifications using **Laravel Queues**, **Vue.js**, and **Pusher**. Users can easily create and manage email campaigns while ensuring high deliverability and performance.
+- **Chatting App**: Created a real-time chatting application using **Laravel** and **Redis** for instant messaging. The app allows users to send and receive messages in real-time, offering features such as user authentication, chat rooms, and message history. The goal was to provide a seamless communication experience for users.
+- **3D Model Website**: Developed an interactive 3D model website using **Three.js** and **GSAP** for animations and transitions. This project allows users to explore 3D models interactively, with smooth animations and dynamic loading features that enhance user engagement and experience. It showcases the potential of web technologies to create immersive experiences.
 
 ## 💬 Let's Connect:
 Feel free to reach out to me for collaboration, open-source contributions, or just to chat about tech!
