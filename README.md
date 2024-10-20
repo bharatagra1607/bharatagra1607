@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Bharat Kushwaha 👋
 
 I'm a passionate **Web Developer** with expertise in **Laravel**, **Vue.js**, and various web technologies. I enjoy building efficient, scalable applications and working on exciting projects that solve real-world problems.
 
