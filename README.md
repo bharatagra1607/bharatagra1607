@@ -1,26 +1,30 @@
 # Hi, I'm Bharat Kushwaha 👋
 
-I'm a passionate **Web Developer** with expertise in **Laravel**, **Vue.js**, and various web technologies. I enjoy building efficient, scalable applications and working on exciting projects that solve real-world problems.
+**Full Stack AI Product Engineer** with **5 years** of experience building scalable SaaS platforms, AI-powered workflows, automation systems, and realtime business applications using **Laravel, Vue.js, React, Node.js, Docker and CI/CD**. Experienced in designing queue-based architectures, workflow automation pipelines, AI integrations, and scalable backend systems focused on operational efficiency, reliability, and performance. Strong product mindset with hands-on experience in delivering production-ready systems focused on scalability, reliability, automation, and business process optimization.
+
 
 ## 💻 Tech Stack:
-- **Frontend:** HTML, CSS, JavaScript (ES6+), Vue.js, Bootstrap, Tailwind CSS
-- **Backend:** PHP (Laravel), Node.js
-- **Databases:** MySQL, MongoDB
-- **Other tools:** Git, Docker, Redis, WebSockets, Pusher
-- **Testing:** PHPUnit, PEST
+- **Frontend:** React, Vue.js, JavaScript, TypeScript, Tailwind CSS
+- **Backend:** Laravel, PHP, Node.js, Express.js, Next.js
+- **Databases:** MySQL, MongoDB, Redis
+- **DevOps:** Docker, GitHub Actions, CI/CD, Nginx, Cloudflare
+- **AI & Automation:** OpenAI, Claude AI n8n, Workflow Automation
+- **Architecture:** Queue Systems, WebSockets, REST APIs, Realtime Systems
 
 ## 🌱 Current Focus:
 I'm currently focusing on:
-- Building chat applications using **Laravel WebSockets** and **Redis**.
-- Improving my Docker skills for development environments.
-- Working on real-time, queue-driven email campaigns using **Laravel Queues**.
+- Building AI-powered SaaS products & automation systems
+- Working on scalable queue-driven architectures
+- Improving Docker, CI/CD & deployment workflows
+- Exploring modern AI integrations & workflow pipelines
+
 
 ## 🚀 Projects:
-- **Email Campaign App**: Developed a campaign app with contact management, queue-driven email sending, and real-time notifications using **Laravel Queues**, **Vue.js**, and **Pusher**. Users can easily create and manage email campaigns while ensuring high deliverability and performance.
-  
-- **Chatting App**: Created a real-time chatting application using **Laravel** and **Redis** for instant messaging. The app allows users to send and receive messages in real-time, offering features such as user authentication, chat rooms, and message history. The goal was to provide a seamless communication experience for users.
-  
-- **3D Model Website**: Developed an interactive 3D model website using **Three.js** and **GSAP** for animations and transitions. This project allows users to explore 3D models interactively, with smooth animations and dynamic loading features that enhance user engagement and experience. It showcases the potential of web technologies to create immersive experiences.
+- **Campaign Emailer**: Built a scalable email campaign platform with contact management, queue-driven bulk email delivery, realtime tracking, validation, retries, and failure notifications. Focused on improving delivery performance, monitoring, and asynchronous processing using **Laravel**, **Vue.js**, **Redis**, **WebSockets**, and **Queue Systems**.
+
+- **AI Course Finder Platform**: Developed an AI-powered student recommendation system that analyzes academics, finances, visa status, and career goals to generate personalized university and course recommendations. Built scalable APIs and AI workflows using **Laravel**, **MySQL**, and **OpenAI API**.
+
+- **Professor Outreach Automation**: Created an automation workflow for professor discovery, personalized email generation, motivation letters, and timezone-aware scheduling. Reduced repetitive outreach tasks through AI-powered automation using **n8n**, **OpenAI API**, and **Google Console**.
 
 
 ## 💬 Let's Connect:
