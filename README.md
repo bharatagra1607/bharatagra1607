@@ -1,6 +1,6 @@
 # Hi, I'm Bharat Kushwaha 👋
 
-**Full Stack AI Product Engineer** with **5 years** of experience building scalable SaaS platforms, AI-powered workflows, automation systems, and realtime business applications using **Laravel, Vue.js, React, Node.js, Docker and CI/CD**. Experienced in designing queue-based architectures, workflow automation pipelines, AI integrations, and scalable backend systems focused on operational efficiency, reliability, and performance. Strong product mindset with hands-on experience in delivering production-ready systems focused on scalability, reliability, automation, and business process optimization.
+**Full Stack AI Product Engineer** with **5 years** of experience building scalable SaaS platforms, AI-powered workflows, automation systems, and realtime business applications using **Laravel, Vue.js, React, Node.js, Docker and CI/CD**. Experienced in designing queue-based architectures, workflow automation pipelines, AI integrations, and scalable backend systems focused on operational efficiency, reliability, and performance.
 
 
 ## 💻 Tech Stack:
